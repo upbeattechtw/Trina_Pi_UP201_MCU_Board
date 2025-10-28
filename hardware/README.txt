@@ -1,0 +1,2 @@
+1. Trina-Pi is the marketing name for "UP201 MCU BOARD" which is the name seen in all engineering databases.
+2. In addition to the actual QrCAD schematics and Gerber files, an easy-to-view PDF version has been generated and stored in the PDF folder. 

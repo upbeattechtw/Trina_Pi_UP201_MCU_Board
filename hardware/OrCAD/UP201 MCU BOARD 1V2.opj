@@ -1,0 +1,105 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S032 (4052516)  [8/29/2022]-[03/13/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\up201 mcu board 1v2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\up201 mcu board 1v2.dsn")
+      (Path "Design Resources" ".\up201 mcu board 1v2.dsn" "SCHEMATIC1")
+      (Select "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 272 0 750"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "-185 0")
+        (Zoom "58")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "00_Placement"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "-193 -1")
+        (Zoom "57")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01_Power Tree"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "0 96")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02_UP201"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03_Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04_USB"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1424 26 770")
+        (Scroll "-131 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "\\10.10.10.10\SHARE\BOARD DESIGN\UP201\UP201 MCU BOARD\2V0\FINAL SCHEMATIC\UP201 MCU BOARD 1V2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05_IO Interface"))))
